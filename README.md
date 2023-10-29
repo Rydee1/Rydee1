@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="center">✨ Username: Rydee1<br>📚 DFCAMCLP-Satellite Campus<br>🎯 Goals: Graphic Designer<br>🎲 Course: Bachelor of Science in Information System<br>System.out.println("\"Just trying to do better.\"”);</h5>
+<h5 align="center">✨ Username: Rydee1<br>📚 DFCAMCLP-Satellite Campus<br>🎯 Goals: Graphic Designer<br>🎲 Course: Bachelor of Science in Information <b>System<br>System.out.println("\"Just trying to do better.\"”);</h5>
 
 ###
 
