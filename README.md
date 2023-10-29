@@ -2,23 +2,23 @@
 
 ###
 
-<p align="center">GET TO KNOW RYAN</p>
+<h2 align="center">GET TO KNOW RYAN</h2>
 
 ###
 
-<h2 align="center">About me</h2>
+<h3 align="center">ABOUT RYAN</h3>
 
 ###
 
-<h5 align="center">✨ Ryan Dave<br>📚 DFCAMCLP-Satellite Campus<br>🎯 Goals: Graphic Designer<br>🎲 Course: Bachelor of Science in Information System<br>System.out.println("\"Just trying to do better.\"”);</h5>
+<h5 align="left">✨ Username: Rydee1<br>📚 DFCAMCLP-Satellite Campus<br>🎯 Goals: Graphic Designer<br>🎲 Course: Bachelor of Science in Information System<br>System.out.println("\"Just trying to do better.\"”);</h5>
 
 ###
 
-<h4 align="center">CONTACT</h4>
+<h3 align="center">CONTACT</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -27,11 +27,11 @@
 
 ###
 
-<h4 align="center">I USE</h4>
+<h3 align="center">I USE</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
